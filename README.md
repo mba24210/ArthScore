@@ -1,4 +1,4 @@
-# CreditVision AI
+# ArthScore AI
 
 A Smart Loan Risk Assessment & Real-Time Default Prediction System built with FastAPI and React.
 
@@ -58,3 +58,4 @@ The frontend provides the Dashboard, New Application form, and EWS alerts visual
 
 - **MVP Phase:** Comprehensive assessment APIs, Dashboard layout, Application Wizard, Synthetic Training features.
 - **Future:** Live EWS automated push jobs using Celery.
+
